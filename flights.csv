@@ -1,0 +1,7 @@
+date,flight,from,to,airline,aircraft,duration
+2026-08-01,CX829,YYZ,HKG,Cathay Pacific,A350,15.2
+2026-08-10,CX840,HKG,JFK,Cathay Pacific,A350,16.0
+2026-08-18,AA100,JFK,LHR,American Airlines,Boeing 777,7.1
+2026-09-01,CX829,YYZ,HKG,Cathay Pacific,A350,15.0
+2026-09-10,CX840,HKG,JFK,Cathay Pacific,A350,15.8
+2026-09-20,AC101,YYZ,HKG,Air Canada,B787,14.5
