@@ -29,7 +29,15 @@ The project includes `sample_flights.csv` for testing.
 
 Export your flight history as a CSV file from Flighty.
 
-Place the CSV file in the project folder, then update the filename passed to `load_flights()` in `main.py`.
+Place your Flighty export CSV in the project folder.
+
+The analyzer automatically detects files named:
+
+`FlightyExport-YYYY-MM-DD.csv`
+
+If multiple Flighty export files are present, the newest one is used automatically.
+
+If no Flighty export is found, the analyzer uses the included `sample_flights.csv`.
 
 For example:
 
